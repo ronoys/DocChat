@@ -13,6 +13,8 @@
   
 </div>
 
+![Langchain][Langchain1]
+
 <b>Dependencies:</b> Langchain, Pinecone, OpenAI, Streamlit
 
 <!-- ABOUT THE PROJECT -->
@@ -64,12 +66,6 @@ Below are some of the key features of DocChat:
 <img src="views/image1.png" alt="main"  width="auto" height="auto">
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-
 
 <!-- CONTACT -->
 ## About
@@ -90,7 +86,5 @@ Project Link: [https://github.com/ronoys/DocChat](https://github.com/ronoys/DocC
 
 
 
-[HTML1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[CSS1]:  https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-[JavaScript1]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Langchain1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/LangChain-0050EF?style=for-the-badge&logo=LangChain&logoColor=white
 
