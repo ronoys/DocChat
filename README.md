@@ -1,4 +1,4 @@
-# DocChat
+# DocChat: Intelligent Document Q&A with Adjustable Response Style & Difficulty via Retrieval Augmented Generation (RAG)
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -40,7 +40,7 @@ Below are some of the key features of DocChat:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-**Prerequisites: Python 3.8+, pip, Git**
+**Prerequisites: Python 3.8+, Pip, Git**
 
 1. Clone this repository and navigate to the local project folder
 2. Install dependencies
