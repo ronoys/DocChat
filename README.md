@@ -49,7 +49,7 @@ Below are some of the key features of DocChat:
    ```
 3. Create .env file in main directory
    ```
-   touch .emv
+   touch .env
    ```
 4. Set your environment variables
    ```
@@ -63,13 +63,10 @@ Below are some of the key features of DocChat:
    ```
    
 <!-- CONTRIBUTING -->
-## Project Views
+## Project View
 
 <img src="views/image1.png" alt="main"  width="auto" height="auto">
 
-
-
-<!-- CONTACT -->
 ## About
 
 Author: Ronoy Sarkar
