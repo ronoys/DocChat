@@ -18,7 +18,6 @@
 ![OpenAI][OpenAI1]
 ![Streamlit][Streamlit1]
 
-<b>Dependencies:</b> Langchain, Pinecone, OpenAI, Streamlit
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
