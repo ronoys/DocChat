@@ -14,6 +14,9 @@
 </div>
 
 ![Langchain][Langchain1]
+![Pinecone][Pinecone1]
+![OpenAI][OpenAI1]
+![Streamlit][Streamlit1]
 
 <b>Dependencies:</b> Langchain, Pinecone, OpenAI, Streamlit
 
@@ -87,5 +90,8 @@ Project Link: [https://github.com/ronoys/DocChat](https://github.com/ronoys/DocC
 
 
 [Langchain1]: https://img.shields.io/badge/LangChain-0050EF?style=for-the-badge&logo=LangChain&logoColor=white
+[Pinecone1]: https://img.shields.io/badge/Pinecone-32CD32?style=for-the-badge&logo=pinecone&logoColor=white
+[OpenAI1]: https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+[Streamlit1]:https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
 
 
