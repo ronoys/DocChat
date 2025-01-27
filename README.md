@@ -86,5 +86,6 @@ Project Link: [https://github.com/ronoys/DocChat](https://github.com/ronoys/DocC
 
 
 
-[Langchain1]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/LangChain-0050EF?style=for-the-badge&logo=LangChain&logoColor=white
+[Langchain1]: https://img.shields.io/badge/LangChain-0050EF?style=for-the-badge&logo=LangChain&logoColor=white
+
 
