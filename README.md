@@ -10,72 +10,58 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-
-<h3 align="center">DocChat</h3>
-
   
 </div>
 
-<b>Dependencies: Langchain, Pinecone, OpenAI, Streamlit</b>
+<b>Dependencies:</b> Langchain, Pinecone, OpenAI, Streamlit
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-DocChat is a web application which uses Retrieval Augmented Generation (RAG) to answer user queries about a document given a desired response type and complexity.
+DocChat is a web application which uses **Retrieval Augmented Generation (RAG)** to answer user queries about a document given a desired response type and complexity.
 
 The application utilizes:
-- LangChain for chaining LLM operations
-- OpenAI's text-embedding-ada-002 model for document embeddings
-- Pinecone for vector storage and similarity search
-- Streamlit for the user interface
+- **LangChain** for chaining LLM operations
+- **OpenAI's text-embedding-ada-002 model** for document embeddings
+- **Pinecone** for vector storage and similarity search
+- **Streamlit** for the user interface
 
 Below are some of the key features of DocChat:
 
-Upload & Process PDFs: Users can upload their PDF files to be processed instantly
-Dynamic Querying: Ask questions related to document content with AI-driven responses
-Response Customization: Adjust response format and difficulty level
-Cloud-based Processing: Ensures quick and accurate retrieval of document insights.
+- **Upload & Process PDFs**: Users can upload their PDF files to be processed instantly
+- **Dynamic Querying**: Ask questions related to document content with AI-driven responses
+- **Response Customization**: Adjust response format and difficulty level
+- **Cloud-based Processing**: Ensures quick and accurate retrieval of document insights.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This extension can be loaded locally in Chrome as an unpacked extension. It uses Manifest v3 and requires version 88 or later of Chrome.
-
-### Downloading the Extension
-
-Prerequisites: Python 3.8+, pip, Git
+**Prerequisites: Python 3.8+, pip, Git**
 
 1. Clone this repository and navigate to the local project folder
 2. Install dependencies
    ```
    pip install -r requirements.txt
    ```
-4. Create .env file in main directory
+3. Create .env file in main directory
    ```
    touch .emv
    ```
-5. Set your environment variables
+4. Set your environment variables
    ```
    OPENAI_API_KEY=your-openai-api-key
    PINECONE_API_KEY=your-pinecone-api-key
    INDEX_NAME=your-pinecone-environment
-  ```
-6. Run the app
-  ```
-  streamlit run app.py
-  ```
+   ```
+5. Run the app
+   ```
+   streamlit run app.py
+   ```
    
-
-
 <!-- CONTRIBUTING -->
 ## Project Views
 
-<img src="images/main.png" alt="main"  width="500" height="auto">
-<img src="images/net.png" alt="net" width="500" height="auto">
-<img src="images/dev.png" alt="dev" width="500" height="auto">
-
+<img src="views/image1.png" alt="main"  width="auto" height="auto">
 
 
 <!-- LICENSE -->
