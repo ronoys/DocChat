@@ -42,7 +42,7 @@ Below are some of the key features of DocChat:
 
 **Prerequisites: Python 3.8+, Pip, Git**
 
-1. Clone this repository and navigate to the local project folder
+1. Clone this repository and navigate to the local project folder. Activate your virtual environment (optional).
 2. Install dependencies
    ```
    pip install -r requirements.txt
